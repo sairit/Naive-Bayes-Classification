@@ -168,4 +168,4 @@ The implementation addresses several important aspects of probabilistic classifi
 
 4. **Class Imbalance**: The system handles datasets with unequal numbers of spam and ham emails through proper probability normalization
 
-This implementation demonstrates a solid understanding of probabilistic machine learning principles, text processing techniques, and performance evaluation methodologies in the context of practical spam detection systems.
+This implementation demonstrates my understanding of probabilistic machine learning principles, text processing techniques, and performance evaluation methodologies in the context of practical spam detection systems.
